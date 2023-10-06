@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dark Gloom</title>
+  <a>Zatim na tom Dělam, ale origo stránka je:></a>
+  <a href="https://gloomweb.github.io/Gloom/">Gloom</a>
+</head>
